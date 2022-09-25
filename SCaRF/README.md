@@ -9,7 +9,7 @@ CCS:
 > - A hyper-condensed overview of what this paper is about, what its results were, and how it contributes to the industry.
 > - Aim for 2-4 bullet points.
 
-![map of DLT topic](./map.png)
+![map of DLT topic](./DLTontology.png)
 
 ### Core Research Question
 A one-sentence question of the core idea being considered in the research paper.
