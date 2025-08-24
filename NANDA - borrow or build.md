@@ -9,3 +9,4 @@
 
 Building a new agentic architecture unencumbered by technical debt has innate appeal but faces steep switiching costs, not to mention significant upfront capital demands. Whilst ledgers provide new address spaces, synchronising/traversing a federated/sharded service mesh with latencies of <50 ms is challenging. The security principle of least privilege means that access/authorisation needs to be revoked as soon as a consistency check fails, capability proof discarded, or rollback challenge issued. 
 
+[] Derouiche, H., Brahmi, Z., & Mazeni, H. (2025). Agentic AI Frameworks: Architectures, Protocols, and Design Challenges. arXiv preprint [arXiv:2508.10146](https://arxiv.org/abs/2508.10146).
